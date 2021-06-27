@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Daeyong Kim who is interested in various fields of computer.
+I am Daeyong Kim who is studying about various fields of computer.
 
 if you want to contact me, please leave me a message!
 
