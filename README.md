@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Daeyong Kim who is studying about various fields of computer.
+(Graphics, Vision, image Processing)
 
 if you want to contact me, please leave me a message!
 
